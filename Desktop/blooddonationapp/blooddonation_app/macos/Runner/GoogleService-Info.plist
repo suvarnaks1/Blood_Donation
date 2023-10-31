@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAHMUuTM14M1BIROY04yHQiCpopS43Wkuk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>163446465955</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.blooddonationApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>blooddonationapp-d1bfc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blooddonationapp-d1bfc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:163446465955:ios:7b2c4eadf099eb2351a616</string>
+</dict>
+</plist>
